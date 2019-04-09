@@ -3,6 +3,8 @@ This project has been created as part of the Data storytelling's course in ENSAE
 You can find the other file via the kaggle's link bellow :
 https://www.kaggle.com/START-UMD/gtd
 
+Github Pages : https://geraldkoye.github.io/DATA-TERRORISM-IN-AFRICA/
+
 <div> 
     <h1> 1.  Les entités </h1>
     <div style = "margin-left: 40px"> <h2> 1.1 Perpétreurs </h2> 
