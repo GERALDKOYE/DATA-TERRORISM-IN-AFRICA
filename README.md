@@ -9,7 +9,7 @@ Github Pages : https://geraldkoye.github.io/DATA-TERRORISM-IN-AFRICA/
     <h1> 1.  Les entités </h1>
     <div style = "margin-left: 40px"> <h2> 1.1 Perpétreurs --OK </h2> 
             <h2> 1.2 Cibles --OK </h2> 
-        <h2> 1.2 Outils </h2> 
+        <h2> 1.2 Outils --OK </h2> 
         <h2> 1.3 Méthodes --OK </h2> 
         <h2> 1.4 Axe temporel 1970:2017 --OK </h2> 
         <h2> ... <h2/> ; 
