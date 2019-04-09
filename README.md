@@ -51,7 +51,7 @@ print(list(df.columns))
 
 
 
-<div> Plan </div>
+<div> Plan
     <div> 
         <h1> 1.  Les entités </h1>
         <div style = "margin-left: 40px"> 
