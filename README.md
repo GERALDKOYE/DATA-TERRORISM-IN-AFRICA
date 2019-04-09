@@ -5,6 +5,11 @@ https://www.kaggle.com/START-UMD/gtd
 
 Github Pages : https://geraldkoye.github.io/DATA-TERRORISM-IN-AFRICA/
 
+<p>
+    Evolution des attaques dans le top 8 des pays en Afrique :<br />
+    <img src="index.png" alt="Top 8 evolution" />
+</p>
+
 <div> 
     <h1> 1.  Les entités </h1>
     <div style = "margin-left: 40px"> <h2> 1.1 Perpétreurs --OK </h2> 
