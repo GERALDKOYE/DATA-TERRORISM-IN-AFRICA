@@ -40,9 +40,9 @@ Github Pages : https://geraldkoye.github.io/DATA-TERRORISM-IN-AFRICA/
     <h1> 2.  Interactions </h1>
     <div style = "margin-left: 40px"> 
         <h2> 2.1. Nombre d'attaques par région géo </h2> 
-        <h2> 2.1.  Nombre de victimes (humaines) par région géo  </h2> 
-        <h2> 2.2. Occurence d'armes par groupe terroriste </h2>
-        <h2> 2.3.  </h2>
+        <h2> 2.2. Nombre de victimes (humaines) par région géo  </h2> 
+        <h2> 2.3. Occurence d'armes par groupe terroriste </h2>
+        <h2> 2.4.  </h2>
         <h2> ... </h2>
    </div>
 </div>
