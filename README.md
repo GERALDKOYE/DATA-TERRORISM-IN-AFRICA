@@ -10,7 +10,7 @@ Github Pages : https://geraldkoye.github.io/DATA-TERRORISM-IN-AFRICA/
 
 <p>
     Evolution des attaques dans le top 8 des pays en Afrique :<br />
-    <img src="index.png" alt="Top 8 evolution" />
+    <img src="IMAGES/index.png" alt="Top 8 evolution" />
 </p>
 
 <div> Plan
