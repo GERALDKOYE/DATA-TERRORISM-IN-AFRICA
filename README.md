@@ -19,7 +19,7 @@ Github Pages : https://geraldkoye.github.io/DATA-TERRORISM-IN-AFRICA/
         <div style = "margin-left: 40px"> 
             <h2> 1.1. Acteurs </h2>
                 <p>
-                 <img src="IMAGES/Top_10_Group_Terrorist.png" alt="" />
+                 <img src="images/Top_10_Group_Terrorist.png" alt="" />
                 </p>
             <div style = "margin-left: 80px">
                <h3> Occurrence/Nb attaques </h3>
