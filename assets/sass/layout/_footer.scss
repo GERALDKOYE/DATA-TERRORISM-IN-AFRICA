@@ -21,11 +21,11 @@
 
 				&:first-child {
 					width: 50%;
-					padding-right: _size(element-margin) ;
+					padding-right: _size(element-margin) * 2 ;
 				}
 
 				&:last-child {
-					padding-left: _size(element-margin) ;
+					padding-left: _size(element-margin)  * 2;
 				}
 			}
 		}
