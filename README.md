@@ -6,7 +6,7 @@ This project has been created as part of the Data storytelling's course in ENSAE
 You can find the other file via the kaggle's link bellow :
 https://www.kaggle.com/START-UMD/gtd
 
-Github Pages : https://geraldkoye.github.io/DATA-TERRORISM-IN-AFRICA/
+Github Pages : https://geraldkoye.github.io/TERRORISM-IN-AFRICA/
 
 <p>
     Evolution des attaques dans le top 8 des pays en Afrique :<br />
