@@ -3,3 +3,6 @@ ce fichier recapitule toutes les sources de données de notre étude.
 GTD: Link to kaggle : [GTD data](https://www.kaggle.com/START-UMD/gtd)
 
 
+#Liste des pays africains
+pays=pd.concat((pd.DataFrame(np.unique(donnee['country_txt'][donnee.region==10])).iloc[[0,2,10,11,17,
+                            21]],pd.DataFrame(np.unique(donnee['country_txt'][donnee.region==11]))))[0]
