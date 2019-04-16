@@ -3750,7 +3750,14 @@
 			font-size: 1.5rem;
 			margin-bottom: 3rem;
 		}
-
+.blurred{
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+	-moz-filter: blur(10px);
+	-o-filter: blur(10px);
+	-ms-filter: blur(10px);
+    filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='10'); 
+}
 		#banner a {
 			color: #FFF;
 			text-decoration: none;
