@@ -373,6 +373,16 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </script>
 <script type='text/javascript' src='https://unsplash.co/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.5.9'></script>	
 
+<script>
+    $(document).ready(function() {
+        $(function() {
+            setTimeout(function() {
+                $('.video-container').toggleClass('blurred')
+            }, 2000);
+        });
+    });
+
+</script>
 		
 	</body>
 </html>
